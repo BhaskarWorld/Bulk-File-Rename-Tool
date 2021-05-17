@@ -1,8 +1,9 @@
+![](icon.jpg)
 # Bulk File Rename Tool
 
-    Bulk File Rename Tool is a Graphical User Interface(GUI) application mainly intended for enhancing users' experience while renaming a large number of files in a specific directory with a naming convension. It uses 'RegEx' that allows users to rename specific files depending on the RegEx pattern provided by the user.
+Bulk File Rename Tool is a Graphical User Interface(GUI) application mainly intended for enhancing users' experience while renaming a large number of files in a specific directory with a naming convension. It uses 'RegEx' that allows users to rename specific files depending on the RegEx pattern provided by the user.
 
-![](icon.jpg)
+
 
 # Key Features!
 
@@ -14,7 +15,7 @@
 
 ## Goal
 
-    The ultimate goal of this project is to ease the process of renaming bulk files within a fraction of time without any human error. Renaming a large number of files can be sometime a very tedious work to do, which can be simplified with a tool that does it in a fraction of time without any mistakes.
+The ultimate goal of this project is to ease the process of renaming bulk files within a fraction of time without any human error. Renaming a large number of files can be sometime a very tedious work to do, which can be simplified with a tool that does it in a fraction of time without any mistakes.
 
 ## Dependencies
 
@@ -73,5 +74,5 @@ OR
 ## Author
 
 **Bhaskarjyoti Sarma**
-[Bhaskarjyoti Sarma's GitHub ](https://github.com/BhaskarWorld/)
+[Bhaskarjyoti Sarma's GitHub ](https://github.com/BhaskarWorld/)<br/>
 Send mail @ bhaskarjyotisarma85@gmail.com
