@@ -16,7 +16,10 @@ Bulk File Rename Tool is a Graphical User Interface(GUI) application mainly inte
 ## Goal
 
 The ultimate goal of this project is to ease the process of renaming bulk files within a fraction of time without any human error. Renaming a large number of files can be sometime a very tedious work to do, which can be simplified with a tool that does it in a fraction of time without any mistakes.
-
+## Technology
+|Python|
+|:----:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" height="100px">|
 ## Dependencies
 
 - **os**
