@@ -35,11 +35,11 @@ Bulk File Rename Tool can be used in two ways. Either in Graphical User Interfac
 >> python Bulk_File_Rename_Tool.py
 ```
 
-**Steps to follow while using the GUI:**
-**_Step 1:_** Enter _Find Pattern_  
- **_Step 2:_** Enter _Replace with_
-**_Step 3:_** Browse Directory & select files
-**_Step 4:_** _Rename_
+### Steps to follow while using the GUI:
+**_Step 1:_** Enter _Find Pattern_  <br />
+ **_Step 2:_** Enter _Replace with_<br />
+**_Step 3:_** Browse Directory & select files<br />
+**_Step 4:_** _Rename_<br />
 
 ![](image1.jpg)
 ![](image2.jpg)
